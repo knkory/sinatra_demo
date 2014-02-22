@@ -1,2 +1,5 @@
+require 'sinatra'
 
-puts "kevin no understand"
+get '/' do
+  "Kevin no understand!"
+end
