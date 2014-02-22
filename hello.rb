@@ -1,4 +1,2 @@
 
-
-
-puts "hello"
+puts "kevin no understand"
